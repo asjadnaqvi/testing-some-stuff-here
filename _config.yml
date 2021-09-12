@@ -6,8 +6,8 @@ remote_theme: pmarsceill/just-the-docs
 
 title: Some cool stuff here
 description: A Jekyll theme for documentation
-baseurl: "/testing-some-stuff-here" # the subpath of your site, e.g. /blog
-url: "https://github.com/asjadnaqvi" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/testing-some-stuff-here" # the subpath of your site, e.g. /blog
+#url: "https://github.com/asjadnaqvi" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Back to top link
@@ -36,9 +36,9 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 
 
 
-layout: default
-title: UI Components
-nav_order: 2
-has_children: true
-has_toc: false
+#layout: default
+#title: UI Components
+#nav_order: 2
+#has_children: true
+#has_toc: false
 
