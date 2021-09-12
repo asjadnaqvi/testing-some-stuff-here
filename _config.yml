@@ -37,6 +37,8 @@ include: ["docs"]
 
 #heading_anchors: true
 
+usemathjax: true
+
 compress_html:
   blanklines: true # needed to render Mathjax correctly
 
@@ -46,4 +48,3 @@ compress_html:
 #has_children: true
 #has_toc: false
 
-usemathjax: true

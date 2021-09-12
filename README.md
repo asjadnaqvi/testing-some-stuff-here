@@ -1,4 +1,4 @@
-usemathjax: true
+
 
 # Dummy repository
 

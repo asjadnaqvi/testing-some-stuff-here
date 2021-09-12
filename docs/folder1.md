@@ -1,5 +1,5 @@
 
-usemathjax: true
+
 
 # Folder 1
 
