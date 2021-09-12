@@ -1,4 +1,11 @@
-
+---
+layout: default
+title: Math test
+mathjax: true
+tags: 
+  - latex
+  - math
+---
 
 
 # Folder 1
