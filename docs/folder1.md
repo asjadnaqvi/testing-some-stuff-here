@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Math test
+#layout: default
+#title: Math test
+#parent: Mathjax
 mathjax: true
 tags: 
   - latex
@@ -26,3 +27,6 @@ some code here
 and some maths
 
 $$ x^2 + y^2 = 1 $$
+
+and some more maths $x^2 + y^2 = 1$
+
