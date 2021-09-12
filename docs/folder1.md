@@ -1,10 +1,12 @@
 
+usemathjax: true
+
 # Folder 1
 
 
 some test goes here
 
-Inline code: ` checking some code `
+Inline code: ``` checking some code ```
 
 Boxed code:
 

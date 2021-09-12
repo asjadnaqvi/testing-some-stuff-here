@@ -1,3 +1,5 @@
+usemathjax: true
+
 # Dummy repository
 
 Checking compatibility of some packages:
