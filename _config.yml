@@ -33,8 +33,12 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 
 # Change to dark mode here: color_scheme: dark
 
+include: ["docs"]
 
-heading_anchors: true
+#heading_anchors: true
+
+compress_html:
+  blanklines: true # needed to render Mathjax correctly
 
 #layout: default
 #title: UI Components
