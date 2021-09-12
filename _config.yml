@@ -34,3 +34,11 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 # Change to dark mode here: color_scheme: dark
 
 
+
+
+layout: default
+title: UI Components
+nav_order: 2
+has_children: true
+has_toc: false
+
